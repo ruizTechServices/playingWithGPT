@@ -10,16 +10,16 @@
 
 ## Project Structure
 playingWithGPT/<br>
-├── backend/
-│ ├── app.py
-│ ├── requirements.txt
-│ └── utils.py
-├── frontend/
-│ ├── index.html
-│ ├── styles.css
-│ └── script.js
-├── .gitignore
-└── README.md
+├── backend/<br>
+│ ├── app.py<br>
+│ ├── requirements.txt<br>
+│ └── utils.py<br>
+├── frontend/<br>
+│ ├── index.html<br>
+│ ├── styles.css<br>
+│ └── script.js<br>
+├── .gitignore<br>
+└── README.md<br>
 
 ## Features
 - **Backend**: Powered by Flask, it handles API requests and communicates with the GPT-4 API.
