@@ -9,7 +9,7 @@
 **Playing With GPT** is a playful yet secure project that interacts with OpenAI's GPT-4 API. The project is built using Python, JavaScript, HTML, and CSS, providing a simple and cohesive interface for generating text based on user input. 
 
 ## Project Structure
-playingWithGPT/
+playingWithGPT/<br>
 ├── backend/
 │ ├── app.py
 │ ├── requirements.txt
