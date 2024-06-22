@@ -39,7 +39,7 @@ playingWithGPT/<br>
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/your-username/playingWithGPT.git
+    git clone https://github.com/ruizTechServices/playingWithGPT.git
     cd playingWithGPT
     ```
 
@@ -90,7 +90,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Luis Giovanni Ruiz - [@your_twitter_handle](https://twitter.com/your_twitter_handle) - your_email@example.com
 
-Project Link: [https://github.com/your-username/playingWithGPT](https://github.com/your-username/playingWithGPT)
+Project Link: [[https://github.com/ruizTechServices/playingWithGPT.git]](https://github.com/ruizTechServices/playingWithGPT.git)
 
 ## Acknowledgments
 - [OpenAI](https://www.openai.com/)
