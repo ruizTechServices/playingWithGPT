@@ -16,7 +16,7 @@ playingWithGPT/<br>
 │ └── utils.py<br>
 ├── frontend/<br>
 │ ├── index.html<br>
-│ ├── stlyes<br>
+│ ├── styles<br>
 │     └── styles.css<br>
 │ ├── scripts<br>
 │     └── script.js<br>
